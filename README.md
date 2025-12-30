@@ -1,4 +1,4 @@
-# PyTorch Modelfor Image Classification Project
+## PyTorch Model for Image Classification Project
 
 **Key Notes:**
 
